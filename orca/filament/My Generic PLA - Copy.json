@@ -1,0 +1,16 @@
+{
+    "filament_settings_id": [
+        "My Generic PLA - Copy"
+    ],
+    "from": "User",
+    "inherits": "My Generic PLA",
+    "is_custom_defined": "0",
+    "name": "My Generic PLA - Copy",
+    "nozzle_temperature": [
+        "190"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "200"
+    ],
+    "version": "1.9.0.2"
+}

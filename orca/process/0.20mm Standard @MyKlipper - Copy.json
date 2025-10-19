@@ -1,0 +1,13 @@
+{
+    "brim_type": "outer_only",
+    "enable_support": "1",
+    "from": "User",
+    "inherits": "0.20mm Standard @MyKlipper",
+    "is_custom_defined": "0",
+    "name": "0.20mm Standard @MyKlipper - Copy",
+    "print_settings_id": "0.20mm Standard @MyKlipper - Copy",
+    "skirt_loops": "2",
+    "support_remove_small_overhang": "0",
+    "support_type": "tree(auto)",
+    "version": "2.3.0.3"
+}

@@ -1,0 +1,59 @@
+{
+    "from": "User",
+    "inherits": "MyKlipper 0.4 nozzle",
+    "is_custom_defined": "0",
+    "machine_max_acceleration_e": [
+        "500",
+        "5000"
+    ],
+    "machine_max_acceleration_extruding": [
+        "1500",
+        "20000"
+    ],
+    "machine_max_acceleration_retracting": [
+        "1500",
+        "5000"
+    ],
+    "machine_max_acceleration_x": [
+        "1500",
+        "20000"
+    ],
+    "machine_max_acceleration_y": [
+        "1500",
+        "20000"
+    ],
+    "machine_max_speed_e": [
+        "20",
+        "25"
+    ],
+    "machine_max_speed_x": [
+        "80",
+        "200"
+    ],
+    "machine_max_speed_y": [
+        "80",
+        "200"
+    ],
+    "machine_start_gcode": "PRINT_START EXTRUDER_TEMP=[nozzle_temperature_initial_layer] BED_TEMP=[bed_temperature_initial_layer_single]\n",
+    "name": "MyKlipper 0.4 nozzle - Copy",
+    "nozzle_type": "brass",
+    "print_host": "192.168.178.62",
+    "printable_area": [
+        "0x0",
+        "300x0",
+        "300x300",
+        "0x300"
+    ],
+    "printable_height": "300",
+    "printer_settings_id": "MyKlipper 0.4 nozzle - Copy",
+    "retraction_length": [
+        "6"
+    ],
+    "retraction_minimum_travel": [
+        "1.5"
+    ],
+    "version": "1.9.0.2",
+    "z_hop": [
+        "0"
+    ]
+}

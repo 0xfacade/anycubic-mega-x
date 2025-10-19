@@ -1,0 +1,20 @@
+{
+    "enable_support": "1",
+    "from": "User",
+    "gap_infill_speed": "25",
+    "inherits": "0.12mm Fine @MyKlipper",
+    "initial_layer_infill_speed": "25",
+    "initial_layer_speed": "25",
+    "inner_wall_speed": "25",
+    "internal_solid_infill_speed": "25",
+    "is_custom_defined": "0",
+    "name": "0.12mm Fine @MyKlipper - Janni",
+    "outer_wall_speed": "25",
+    "print_settings_id": "0.12mm Fine @MyKlipper - Janni",
+    "sparse_infill_speed": "25",
+    "support_interface_speed": "25",
+    "support_speed": "25",
+    "support_type": "tree(auto)",
+    "top_surface_speed": "25",
+    "version": "1.9.0.2"
+}
