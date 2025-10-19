@@ -27,6 +27,14 @@ Visit the mainsail webpage on your host to edit the configuration file for the p
 
 ## Printing
 
-I use OrcaSlicer with the Generic Klipper printer config. Here are some important configuration changes:
+I use OrcaSlicer with the Generic Klipper printer config. You can import the settings from the `orca` directory, with profiles for generic PLA and different nozzle sizes.
+
+Alternatively, you may want to start from scratch. Important settings:
+- bedsize
+- temperature limits
+- speed & acceleration limits
 - set "Machine start G-code" to `PRINT_START EXTRUDER_TEMP=[nozzle_temperature_initial_layer] BED_TEMP=[bed_temperature_initial_layer_single]`
 - set "Machine end G-code" to `PRINT_END`
+
+## Tuning
+The printer has a Bowden extruder. This makes it very important to tune the amount of retraction and pressure advance.
